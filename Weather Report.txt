@@ -1,0 +1,6 @@
+Date & Time           :22 Jun 2021 | 04:10:45 PM
+Name of the City      :HYDERABAD
+Current temperature is: 31.26 deg C
+Current weather desc  : haze
+Current Humidity      : 53%
+Current wind speed    : 3.09kmph
